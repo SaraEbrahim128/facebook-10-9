@@ -1,0 +1,112 @@
+Test Type;Test Set;TC-ID;Summary;Action;Expected Result
+Manual;GUI_Post;TCPOST-0001;[GUI] Verify Font Size and text color in text area of add post;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;GUI_Post;TCPOST-0002;[GUI] Verify that user Add Post Text Area is displayed In Front Of home Screen & Profile Screen;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0003;Add Post [ Video ] by using mobile cam;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0004;Add Post with multiple photos/videos/Text by using mobile cam;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0005;Add Post with multiple photos/videos/Text from saved on gallery;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0006;Add Post by Tagging people from your Friends list;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0007;Add Post by Tagging people from your Friends list and customize who can see post;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0008;Add Post with feeling emotions;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0009;Add Post with Activity;"1-App Is Installed And Open Successfully 
+2-User Should Be Login Successfully 
+3-App Should be connected with Internet";
+Manual;Positive-Post;TCPOST-0010;Add Post with Checkin in Dedected Place;;
+Manual;Positive-Post;TCPOST-0011;Add Post with Checkin in By searching for place;;
+Manual;Positive-Post;TCPOST-0012;Add Post with live video;;
+Manual;Positive-Post;TCPOST-0013;Add Post by customize post background;;
+Manual;Positive-Post;TCPOST-0014;Add Post by customize post With GIF;;
+Manual;Positive-Post;TCPOST-0015;Add Post by customize post With more than one GIF;;
+Manual;Positive-Post;TCPOST-0016;Add Post by customize Layout;;
+Manual;Positive-Post;TCPOST-0017;Add Post to Saved Album;;
+Manual;Positive-Post;TCPOST-0018;Add Post To A New Created Album;;
+Manual;Positive-Post;TCPOST-0019;try copy post link;;
+Manual;Positive-Post;TCPOST-0020;try Paste post link;;
+Manual;Positive-Post;TCPOST-0021;Try like Action On the Added post;;
+Manual;Positive-Post;TCPOST-0022;Try Comment Action On the Added post;;
+Manual;Positive-Post;TCPOST-0023;Try Re-sharing Action On the Added post;;
+Manual;Positive-Post;TCPOST-0024;Try Unlike Action On the Added post;;
+Manual;Positive-Post;TCPOST-0025;Try Deleting Comment Action On the Added post;;
+Manual;Positive-Post;TCPOST-0026;Try Deleting The Re-share Action On the Added post;;
+Manual;Positive-Post;TCPOST-0027;Try Editing Comment Action On the Added post;;
+Manual;Positive-Post;TCPOST-0028;Try Saving Added post;;
+Manual;Positive-Post;TCPOST-0029;change post privacy to only me;;
+Manual;Positive-Post;TCPOST-0030;change post privacy to friends;;
+Manual;Positive-Post;TCPOST-0031;change post privacy to Custom friends;;
+Manual;Positive-Post;TCPOST-0032;Edit Added post privacy From only me To Friend;;
+Manual;Positive-Post;TCPOST-0033;Edit Added post privacy From Friend To only me;;
+Manual;Positive-Post;TCPOST-0034;Edit Added post privacy From Custom friendsTo only me;;
+Manual;Positive-Post;TCPOST-0035;Edit Added post privacy From Custom friendsTo All Friends;;
+Manual;Positive-Post;TCPOST-0036;Make Added Post As Pin In Your Profile;;
+Manual;Positive-Post;TCPOST-0037;Remove Added Post From Pin;;
+Manual;Positive-Post;TCPOST-0038;pin new Added Post As Pin In Your Profile and there is another post is pinning;;
+Manual;Positive-Post;TCPOST-0039;check removing added post to trash;;
+Manual;Positive-Post;TCPOST-0040;Edit post notification to off;;
+Manual;Positive-Post;TCPOST-0041;Edit post notification from off to on;;
+Manual;Positive-Post;TCPOST-0042;Add the Added Post To Archive;;
+Manual;Positive-Post;TCPOST-0043;Remove the Added Post From Archive;;
+Manual;Positive-Post;TCPOST-0044;Check the Added Post To Archive After 30 Days From Archiving;;
+Manual;Positive-Post;TCPOST-0045;Try Adding post as A Sharing Link;;
+Manual;Positive-Post;TCPOST-0046;Try Adding post as A Sharing Link;;
+Manual;Positive-Post;TCPOST-0047;Try copy anything then paste on post text area;;
+Manual;Positive-Post;TCPOST-0048;Try Selecting All post text area;;
+Manual;Positive-Post;TCPOST-0049;Try Cutting anythingFrom post text area;;
+Manual;Positive-Post;TCPOST-0050;Check Post Button Functionality;;
+Manual;Positive-Post;TCPOST-0051;Check Back Button Functionality;;
+Manual;Positive-Post;TCPOST-0052;Check Add post then make app in Background;;
+Manual;Positive-Post;TCPOST-0053;Check Add post then make app in Background;;
+Manual;Positive-Post;TCPOST-0054;Add post with mixed phootos from cam;;
+Manual;Positive-Post;TCPOST-0055;Add post with mixed phootos from gallery;;
+Manual;Positive-Post;TCPOST-0056;Add post with mixed Videos from cam;;
+Manual;Positive-Post;TCPOST-0057;Add post with mixed Videos from gallery;;
+Manual;Positive-Post;TCPOST-0058;Add post with mixed Videos & photos from cam;;
+Manual;Positive-Post;TCPOST-0059;Add post with mixed Videos & photos from gallery;;
+Manual;Positive-Post;TCPOST-0060;Add post with Multiple photos from cam;;
+Manual;Positive-Post;TCPOST-0061;Add post with Multiple photos from cam;;
+Manual;Positive-Post;TCPOST-0062;Add post with Multiple Video from cam;;
+Manual;Positive-Post;TCPOST-0063;Add post with Multiple Video from gallery;;
+Manual;Positive-Post;TCPOST-0064;Edit The Selected photo from cam;;
+Manual;Positive-Post;TCPOST-0065;Edit The Selected photo from gallery;;
+Manual;Positive-Post;TCPOST-0066;Edit The Selected Video from gallery;;
+Manual;Positive-Post;TCPOST-0067;Edit The Selected Video from cam;;
+Manual;Positive-Post;TCPOST-0068;Verify that Posting Mixed videos from cam with mixed photos from Gallery;;
+Manual;Negative -Post;TCPOST-0069;Verify that Posting image of unsupported Media type;;
+Manual;Negative -Post;TCPOST-0070;Verify that Posting image size exceeding maximum allowed size;;
+Manual;Negative -Post;TCPOST-0071;Verify that Posting image size less than the allowed minimum size;;
+Manual;Negative -Post;TCPOST-0072;Verify that Posting image larger dimension than permitted;;
+Manual;Negative -Post;TCPOST-0073;Verify that Posting image smaller dimension than permitted;;
+Manual;Negative -Post;TCPOST-0074;Verify that Posting Video of unsupported Media type;;
+Manual;Negative -Post;TCPOST-0075;Verify that Posting Video with size smaller than min size;;
+Manual;Negative -Post;TCPOST-0076;Verify that Posting Video with size Larger than Max size;;
+Manual;Negative -Post;TCPOST-0077;Check Adding Post While Incoming Calls;;
+Manual;Negative -Post;TCPOST-0078;Check Adding Post While Drop down Network;;
+Manual;Negative -Post;TCPOST-0079;Check Adding Post without posting and make app paly in background then open it;;
+Manual;Negative -Post;TCPOST-0080;Check Adding Post without posting and make app paly in background then remove app from background;;
+Manual;Negative -Post;TCPOST-0081;Check Adding Post While Incoming SMS;;
+Manual;Negative -Post;TCPOST-0082;posting any thing and battery is discharged or any other kind of interruption takes place;;
+Manual;Negative -Post;TCPOST-0083;Remove All Tagged People from Added Post;;
+Manual;Negative -Post;TCPOST-0084;Add Post And While Adding Press back then discard Post;;
+Manual;Negative -Post;TCPOST-0085;Add Post And While Adding Press back then Continue Posting;;
+Manual;Negative -Post;TCPOST-0086;check that Public can check the Post in a private account.;;
+Manual;Negative -Post;TCPOST-0087;check if the blocked / hidden Friends can check the Post;;
+Manual;Negative -Post;TCPOST-0088;Verify That Post button is present on the the secreen with the appropriate label on it;;
+Manual;Negative -Post;TCPOST-0089;Verify That Post button is Dimmed when there is no content;;
+Manual;Negative -Post;TCPOST-0090;Verify That Post button is Activated when when adding anything;;
+Manual;Negative -Post;TCPOST-0091;Try Adding Post Doc as PDF Format;;
+Manual;Negative -Post;TCPOST-0092;Verify the image quality after upload while adding post;;
+Manual;Negative -Post;TCPOST-0093;Verify Pressing On Back Button Then Exit While the image uploading;;

@@ -1,0 +1,46 @@
+Test Scenarios[Add Post ]
+User Can can Add a post As (Photo/Video/Text)
+User Can Add a carousel post (share multiple photos/videos/Text in one post)
+User Can Tag people from your Friends list
+User Can Add Feeling / Activity
+User Can Add A check In place OR to search by your own location
+User Can Add Live Video
+User Can Add Background Color
+User Can Add GIF
+User Can Add Layouts
+User Can Add Post For Album
+User Can Share/Copy Post link to anywhere
+User Can Change / Edit Post Privacy
+User Can Add Post As Pin In Your Profile Screen
+User Can Add Post To Trash
+User Can Manage Post Notifications
+User Can Add Post To Archive
+User Can Paste / Cut / Copy / Select All in Post Text Area.
+Test Scenarios[ Message ]
+1- User Can send message As (Photo/Video/Text)
+2- User Can Add a carousel Story (share multiple photos/videos/Text in one post)
+4-User Can Add emotions to the message
+5-User can delete message
+6-User can send emotions & Stickers
+7-User can scroll up & Down on message chat area
+8-User can send location
+9-User can send audio as message
+10-User can send message as Share/Copy its link to anywhere
+11-User can Like & reply on the message
+12-User can change receiver name on message chat
+13-User can make group chat
+14-User can search foe specific friend to send message
+Test Scenarios[Add Story ]
+1- User Can can Add a Story As (Photo/Video/Text)
+2- User Can Add a carousel Story (share multiple photos/videos/Text in one post)
+3-You can Tag people from your Friends list
+4- You can add a feeling / Activity
+5- You can add emotions & Stickers
+6- You Can Add Background Color
+7-You Can Add GIF
+8-You Can Add Layouts
+9-Share/Copy its link to anywhere
+10-Like & reply on the story
+11-Save your post
+12-You Can Change / Edit Story Privacy
+13-Check Add Button Functionality
